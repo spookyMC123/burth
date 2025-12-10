@@ -28,17 +28,18 @@ function useScrollReveal() {
 }
 
 const BIRTHDAY_MESSAGE = {
-  title: "Happiest birthday, dear Dulavaiiiiiiiiii😍❤️‍🔥",
+  title: "Happiest birthday, dear Joy! 🎉😄",
   paragraphs: [
-    "You are truly my sister's favourite man! Her pasandida mard😩🫀✨",
-    "I always pray that you stay happy and healthy, and may Allah fulfill all your wishes.",
-    "My sister loves you soooo much, bhaiya… so please never hurt her. Take care of her, cherish her, and hold her close. And please marry her soon….this is my only request as your younger brother! The more love you give my sister, the more special you will become to our whole family. 🥹🤌🏻",
-    "Lastly, I just want to say… may you always stay happy with my sister, may the both of you stay blessed together, and may every birthday of yours be celebrated with her by your side….that's my heartfelt wish. 🥺",
+    "You are seriously one of the most joyful and positive people around! Your energy makes every moment more fun. 😄🔥",
+    "I always pray that you stay healthy, happy, and successful in everything you do. May Allah bless you with endless achievements and good days ahead.",
+    "You’ve always been supportive, kind, and respectful — qualities that everyone appreciates. Keep being the amazing person you are, and never stop growing. 💛",
+    "Lastly, may every year of your life be better than the previous one. May this birthday bring you new opportunities, new memories, and lots of happiness. You deserve the best! ✨",
   ],
-  closing: "Once again, happy birthday Duluuuu❤️🎉",
-  signature: "With love,\nYour one and only shala, Tarif 😜",
-  footer: "Mylea's Pasandida Mard🌚❤️"
-}
+  closing: "Once again, happy birthday Joy! 🎂🎉",
+  signature: "With good wishes,\nTarif 😄",
+  footer: "Joy — The Ever-Smiling Legend 😎✨"
+};
+
 
 interface Particle {
   id: number
